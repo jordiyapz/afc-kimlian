@@ -1019,7 +1019,7 @@ body {
   align-items: center;
 }
 #izbjgw {
-  background-image: url("https://superfoodjepangafc.com/wp-content/uploads/2024/09/a39-1-1-2-1.webp");
+  background-image: url("assets/superfoodjepangafc.com/a39-1-1-2-1.webp");
   background-size: contain;
   background-position: center center;
   background-attachment: scroll;
@@ -1037,7 +1037,7 @@ body {
   margin-top: 8px;
 }
 #ivqj6j {
-  background-image: url("https://superfoodjepangafc.com/wp-content/uploads/2024/09/a39-2-1-1-1.webp");
+  background-image: url("assets/superfoodjepangafc.com/a39-2-1-1-1.webp");
   background-size: contain;
   background-position: center center;
   background-attachment: scroll;
@@ -1565,13 +1565,14 @@ body {
   background-origin: padding-box;
 }
 #ilvskg {
-  background-image: url("https://superfoodjepangafc.com/wp-content/uploads/2024/09/a7-1-2-1.webp");
+  background-image: url("assets/superfoodjepangafc.com/a7-1-2-1.webp");
   background-size: contain;
   background-position: center center;
   background-attachment: scroll;
   background-repeat: no-repeat;
   width: 240px;
   height: 300px;
+  margin: 0 auto;
 }
 #iy2cm6 {
   flex: 0 1 auto;
@@ -1705,7 +1706,7 @@ body {
   z-index: 10;
 }
 #iy0196 {
-  background-image: url("https://superfoodjepangafc.com/wp-content/uploads/2024/09/ra5-8-1.webp");
+  background-image: url("assets/superfoodjepangafc.com/ra5-8-1.webp");
   background-size: contain;
   background-position: center center;
   background-attachment: scroll;
@@ -1714,7 +1715,7 @@ body {
   height: auto;
 }
 #i12w56 {
-  background-image: url("https://superfoodjepangafc.com/wp-content/uploads/2024/09/ra5-1-2-1.webp");
+  background-image: url("assets/superfoodjepangafc.com/ra5-1-2-1.webp");
   background-size: contain;
   background-position: center center;
   background-attachment: scroll;
@@ -1723,7 +1724,7 @@ body {
   height: auto;
 }
 #ih8d4q {
-  background-image: url("https://superfoodjepangafc.com/wp-content/uploads/2024/09/ra5-2-2-1.webp");
+  background-image: url("assets/superfoodjepangafc.com/ra5-2-2-1.webp");
   background-size: contain;
   background-position: center center;
   background-attachment: scroll;
@@ -1758,7 +1759,7 @@ body {
   background-color: #252525;
 }
 #i361fa {
-  background-image: url("https://superfoodjepangafc.com/wp-content/uploads/2024/09/ra5-6-2-1.webp");
+  background-image: url("assets/superfoodjepangafc.com/ra5-6-2-1.webp");
   background-size: contain;
   background-position: center center;
   background-attachment: scroll;
@@ -1771,7 +1772,7 @@ body {
   align-self: auto;
 }
 #iecv4j {
-  background-image: url("https://superfoodjepangafc.com/wp-content/uploads/2024/09/ra5-5-2-1.webp");
+  background-image: url("assets/superfoodjepangafc.com/ra5-5-2-1.webp");
   background-size: contain;
   background-position: center center;
   background-attachment: scroll;
@@ -1815,6 +1816,11 @@ body {
   gap: 16px;
   overflow-x: scroll;
   overflow-y: clip;
+}
+#i3a2np div iframe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 #i6p74z {
   background-color: #b899ff;
@@ -1883,8 +1889,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding: 20px 40px;
   flex: 1 1 0%;
 }
 #ik8dl1 {
